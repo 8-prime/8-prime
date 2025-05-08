@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="roT85pfVBOTF72AaF_8ajdHoz1md3VXCWSq6mVi4Zro" />
-
 ## Hi there 👋
 
 I'm currently working on [FileFlow](https://github.com/8-prime/FileFlow), [Event-Horizon](https://github.com/8-prime/Event-Horizon) and [notiz](https://github.com/8-prime/notiz)
