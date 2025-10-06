@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently working on [FileFlow](https://github.com/8-prime/FileFlow), [Event-Horizon](https://github.com/8-prime/Event-Horizon) and [notiz](https://github.com/8-prime/notiz)
+I'm currently working on [FileFlow](https://github.com/8-prime/FileFlow), [Event-Horizon](https://github.com/8-prime/Event-Horizon) and [Markblog](https://github.com/8-prime/MarkBlog)
 
 ## Technologies and Languages
 
